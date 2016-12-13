@@ -1,0 +1,8 @@
+<xml version="1.0" encoding="gb2312" >
+<logpath>
+	<p>../logs/</p>
+</logpath>
+<ApiURL>
+	<p>http://192.168.28.215:4000/</p>
+</ApiURL>
+</xml>
